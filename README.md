@@ -18,7 +18,7 @@ A Saiyan Ink Tattoo egy feltörekvő vállalkozás, amely Hajdúnánáson talál
 - CSS3
 - Markdown
 
-## Képernyőképek
+## Képernyőkép
 ![Főoldal](screenshot.png)
 
 ## Licenc
